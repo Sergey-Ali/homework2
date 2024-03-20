@@ -1,0 +1,4 @@
+Sergey <class 'str'>
+63 <class 'int'>
+64 <class 'int'>
+is_student True
